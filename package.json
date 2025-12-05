@@ -58,5 +58,5 @@
     "single-spa": "^6.0.3"
   },
   "types": "dist/showcase-qa-extra.d.ts",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
