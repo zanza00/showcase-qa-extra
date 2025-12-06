@@ -3,14 +3,8 @@
   "compilerOptions": {
     "jsx": "react-jsx",
     "declarationDir": "dist",
-    "baseUrl": ".",
-    "paths": {
-      "@showcase/shared-libs": ["../shared-libs/src/showcase-shared-libs.tsx"],
-      "@showcase/intro": ["../intro/src/showcase-intro.tsx"],
-      "@showcase/content": ["../content/src/showcase-content.tsx"],
-      "@showcase/shell": ["../shell/src/showcase-shell.tsx"],
-      "@showcase/qa-extra": ["../qa-extra/src/showcase-qa-extra.tsx"]
-    }
+    "skipLibCheck": true,
+    "baseUrl": "."
   },
   "files": ["src/showcase-qa-extra.tsx"],
   "include": ["src/**/*"],
