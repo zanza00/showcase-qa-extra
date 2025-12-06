@@ -6,7 +6,7 @@
     "skipLibCheck": true,
     "baseUrl": "."
   },
-  "files": ["src/showcase-qa-extra.tsx"],
+  "files": ["src/zanza00-qa-extra.tsx"],
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test*"]
 }
